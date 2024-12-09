@@ -1,0 +1,5 @@
+streamlit==1.40.0
+pandas==2.2.2
+hydralit-components==1.0.10
+streamlit-option-menu==0.4.0
+streamlit-extras==0.5.0
