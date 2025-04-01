@@ -1,4 +1,5 @@
 import streamlit as st
+import numpy as np
 import pandas as pd
 import hydralit_components as hc
 from streamlit_option_menu import option_menu
